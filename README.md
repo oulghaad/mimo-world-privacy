@@ -70,4 +70,4 @@ We may update this Privacy Policy from time to time to reflect technical or regu
 If you have any questions or concerns regarding this Privacy Policy or children's privacy in **Mimo World**, please contact the developer at:
 
 - **Developer / Studio:** Mimo World Studio
-- **Email:** contact@mimoworld.game *(replace with your developer email address)*
+- **Email:** hardoulgh@gmail.com *(replace with your developer email address)*
